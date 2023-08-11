@@ -17,15 +17,15 @@
     -->
 
     .wave-1 {
-      fill: #b564cc33;
+      fill: #152d3c33;
     }
 
     .wave-2 {
-      fill: #e05cad33;
+      fill: #045e8d33;
     }
 
     .blob {
-      fill: #b564cc33;
+      fill:  #045e8d33;
     }
   </style>
 
